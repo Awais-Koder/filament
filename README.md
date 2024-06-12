@@ -1,11 +1,17 @@
-#how to use this
+# how to use this
 
-#run migrations
+# run migrations
+
 `php artisan migrate`
-#seed the database
+
+# seed the database
+
 `php artisan db:seed`
 
-#Admin Account
+# Admin Account
+
 admin@filament.com
-#password
+
+# password
+
 12345678
